@@ -30,8 +30,9 @@ body{
     align-items: center;
     justify-content: center;
     width: 18rem;
-    padding: 1.0rem;
+    padding: 10px;
     border-radius: 10px;
+    height: 500px;
 
 }
 .container img{
@@ -51,7 +52,7 @@ body{
 .btn{
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
     width: 100%;
 }
 .btn button{
