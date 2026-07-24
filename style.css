@@ -32,7 +32,7 @@ body{
     width: 18rem;
     padding: 10px;
     border-radius: 10px;
-    height: 500px;
+    height: 550px;
 
 }
 .container img{
@@ -40,7 +40,7 @@ body{
     height: 80px;
     border-radius: 50%;
 }
-.container h2{
+.container h1{
     color: var(--White);
     font-weight: var(--weight-3);
 }
